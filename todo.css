@@ -1,4 +1,5 @@
 h2{
+margin-top:15vh;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -10,7 +11,9 @@ h2{
  padding: 20px;
  border-radius: 4px;
  background: linear-gradient(to top,black,rgb(91, 87, 87));
- margin-left: 36%;
+ position: absolute;
+inset:0;
+margin: auto;
 }
 #display
 {
